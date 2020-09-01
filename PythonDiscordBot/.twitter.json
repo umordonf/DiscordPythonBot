@@ -1,0 +1,2 @@
+from tweepy import 
+OAuthHandlerauth = OAuthHandler(consumer_key, consumer_secret) api = tweepy.API(auth)
